@@ -11,7 +11,7 @@ public class Engenheiro extends Empregado {
         this.formacao = formacao;
     }
     
-    public Engenheiro(int m, String n, String f ){
+    public Engenheiro(String n, int m, String f ){
         this.formacao = formacao;
     }
     

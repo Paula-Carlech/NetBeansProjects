@@ -11,7 +11,7 @@ public class Secretaria extends Empregado{
         this.funcao = funcao;
     }
     
-    public Secretaria(int m, String n, String f){
+    public Secretaria(String n, int m, String f){
         this.funcao = funcao;
     }
     
