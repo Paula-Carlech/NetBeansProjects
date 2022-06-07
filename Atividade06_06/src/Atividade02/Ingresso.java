@@ -1,7 +1,7 @@
 package Atividade02;
 public class Ingresso {
     
-    float valor;
+    protected float valor;
 
     public float getValor() {
         return valor;

@@ -11,11 +11,9 @@ public class VIP extends Ingresso{
         this.valorAdd = valorAdd;
     }
     
-    /*
     public VIP(float valorAdd) {
         this.valorAdd = valorAdd;
     }
-    */
      
     valorAdd += valor;
 
